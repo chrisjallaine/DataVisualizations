@@ -48,4 +48,4 @@ To explore or use these visualizations, follow the steps below:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/DataVisualization.git
+   git clone https://github.com/chrisjallaine/DataVisualization.git
